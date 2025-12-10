@@ -17,7 +17,7 @@ Trabalho com desenvolvimento de aplicações modernas, integrações complexas, 
 
 ---
 
-## 🔧 Tecnologias que utilizo (todos ícones juntos, sem repetição)
+## 🔧 Tecnologias que utilizo
 
 <p>
   <!-- Linguagens -->
@@ -62,7 +62,7 @@ Trabalho com desenvolvimento de aplicações modernas, integrações complexas, 
 
 ---
 
-## 📊 GitHub Stats (atualizado e funcionando)
+## 📊 GitHub Stats
 <p align="center">
   <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pablocarss&show_icons=true&theme=radical" />
   <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pablocarss&layout=compact&theme=radical"/>
