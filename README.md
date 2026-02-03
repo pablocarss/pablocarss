@@ -1,7 +1,7 @@
 <h1 align="center">Pablo Cardoso — Software Engineer 👨‍💻</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pablo-cardoso-1891a335a/">
+  <a href="[https://www.linkedin.com/in/pablo-cardoso-1891a335a/](https://www.linkedin.com/in/pablocardosoo/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pablo_5651@hotmail.com">
@@ -76,7 +76,7 @@ Trabalho com desenvolvimento de aplicações modernas, integrações complexas, 
 
 ## 📬 Contato
 📧 **pablo_5651@hotmail.com**  
-🔗 **https://www.linkedin.com/in/pablo-cardoso-1891a335a/**  
+🔗 **(https://www.linkedin.com/in/pablocardosoo/)**  
 
 ---
 
